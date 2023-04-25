@@ -708,7 +708,7 @@ while run:
             cont.draw()
             banner_logo.draw()
          #Imprimimos marca de registro
-        draw_text("© Grupo 2 - AYED, ESFOT. 2023", font, WHITE, 650, 700)
+        draw_text("© Delgado Bryan, 2023", font, WHITE, 650, 700)
         screen.blit(logo, (150, 50))
         pass
     else:
